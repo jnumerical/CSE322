@@ -27,3 +27,20 @@ p {
 	font-family: sans-serif;
 	color: white;
 }
+
+body>nav {
+	color: #ffffff;
+	background-color: #222222;
+}
+
+body>nav a {
+	display: inline-block;
+	padding: 1em;
+	color: #ffffff;
+	text-decoration: none;		
+}
+
+body>nav a:hover {
+	background-color: #00ff00;
+	color: #000000;	
+}
