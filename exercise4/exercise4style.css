@@ -1,0 +1,29 @@
+body {
+	background-color: #002255;
+}
+
+h1 {
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+
+table{ 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td {
+   text-align: center;
+   padding: 15px;
+}
+
+img {
+	border: 7px solid black;
+}
+
+p {
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
