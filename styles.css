@@ -24,18 +24,8 @@ body>div {
 	display: inline-block;
 	box-sizing: border-box;
 	padding: 1em;
-	width: 33%;
+	width: 33.3%;
 	vertical-align: top;
-	
-}
-
-body>div {
-	display: inline-block;
-	box-sizing: border-box;
-	padding: 1em;
-	width: 33%;
-	vertical-align: top;
-	
 }
 
 h1, h2, h3 {
